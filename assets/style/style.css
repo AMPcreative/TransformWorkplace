@@ -39,12 +39,14 @@ height: 100%;
 	width: 100%;
 	padding-top: 5%;
 	padding-bottom: 5%;
+	left: 3%;
 	position: relative;
+
 
 }
 
 .iphone {
-	width: 22.5%;
+	width: 45.5%;
 	z-index: 9;
 	position: relative;
 	left: 9%;
@@ -53,10 +55,10 @@ height: 100%;
 }
 
 .video-player {
-	width: 19.5%;
+	width: 39%;
 	z-index: 10;
 	position: relative;
-	right: 12%;
+	right: 33%;
 	
 }
 
